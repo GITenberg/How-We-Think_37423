@@ -1,0 +1,33 @@
+_repo: How-We-Think_37423
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: "How We Think is a book written by the American educational philosopher\
+  \ John Dewey, published in 1910. It was reissued in a substantially revised edition\
+  \ in 1933.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2011-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37423'
+  wikidata: Q5918221
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thought and thinking'
+- !lcsh 'Educational psychology'
+- !lcc 'BF'
+title: How We Think
+url: http://www.gutenberg.org/ebooks/37423
+wikipedia:
+- https://en.wikipedia.org/wiki/How_We_Think
