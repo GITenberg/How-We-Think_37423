@@ -14,6 +14,8 @@ creator:
 description: "How We Think is a book written by the American educational philosopher\
   \ John Dewey, published in 1910. It was reissued in a substantially revised edition\
   \ in 1933.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37423#How-We-Think
 gutenberg_issued: '2011-09-14'
 gutenberg_type: Text
 identifiers:
